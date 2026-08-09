@@ -1,14 +1,18 @@
 <div align="center">
+
 <img src="witch.svg" width="100%" alt="Hi there animation" />
 
+# Hey there 👋
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Harshada+%F0%9F%91%8B;Computer+Science+Student;Building+things+with+Python+%26+C;Always+learning,+always+shipping;&font=Fira+Code&center=true&width=520&height=45&color=2c5364&vCenter=true&size=22" alt="Typing animation" />
-
-<br/>
-
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-<a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/your-discord-id" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="45" height="45"/>
+  </a>
+</p>
 
 </div>
 
