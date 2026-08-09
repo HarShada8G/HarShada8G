@@ -1,13 +1,13 @@
 <div align="center">
+<img src="witch.svg" width="100%" alt="Hi there animation" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=220&section=header&text=Harshada%20Ghube&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Building%20clean%2C%20reliable%20software&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Harshada+%F0%9F%91%8B;Computer+Science+Student;Building+things+with+Python+%26+C;Always+learning,+always+shipping;&font=Fira+Code&center=true&width=520&height=45&color=2c5364&vCenter=true&size=22" alt="Typing animation" />
 
 <br/>
 
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/HarShada8G"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
 <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 
 </div>
@@ -16,12 +16,14 @@
 
 ## 👋 About Me
 
-I'm a Software Engineering student who enjoys turning ideas into working software — from small automation scripts to full applications. I care about writing code that's clean, well-structured, and actually solves the problem in front of it.
+I'm Harshada Ghube from India a Computer Science student who enjoys turning ideas into working software — from small automation scripts to full applications. 
 
-- 🎓 Currently studying Software Engineering
-- 🛠️ Comfortable across the stack — scripting, backend logic, and the web
-- 📈 Constantly picking up new tools, languages, and better ways of building things
-- 💬 Happy to talk about **Python, C, JavaScript, and Git workflows**
+- 🎓 Computer Science and Business Student
+- 🛠️ Learning & Exploring New Technologies
+- 🌍 Open Source Contributor
+- 🌐 Web Development Enthusiast
+- ⚡ Late-Night Coder a
+  
 
 <br/>
 
