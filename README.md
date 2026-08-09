@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=220&section=header&text=Harshada%20Gaikwad&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Building%20clean%2C%20reliable%20software&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=220&section=header&text=Harshada%20Ghube&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Building%20clean%2C%20reliable%20software&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Harshada+%F0%9F%91%8B;Software+Engineering+Student;Building+things+with+Python+%26+C;Always+learning,+always+shipping;&font=Fira+Code&center=true&width=520&height=45&color=2c5364&vCenter=true&size=22" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Harshada+%F0%9F%91%8B;Computer+Science+Student;Building+things+with+Python+%26+C;Always+learning,+always+shipping;&font=Fira+Code&center=true&width=520&height=45&color=2c5364&vCenter=true&size=22" alt="Typing animation" />
 
 <br/>
 
