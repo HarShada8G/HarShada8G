@@ -5,7 +5,7 @@
 # Hey there 👋
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://www.linkedin.com/in/harshada-ghube-5302a0381/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45"/>
   </a>
   &nbsp;&nbsp;
@@ -82,7 +82,8 @@ I'm Harshada Ghube from India a Computer Science student who enjoys turning idea
 
 I'm always open to interesting projects, collaborations, or just a good conversation about code.
 
-<a href="(https://www.linkedin.com/in/harshada-ghube-5302a0381/)"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/harshada-ghube-5302a0381/" target = "_blank">
+<img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
 
