@@ -23,10 +23,10 @@
 I'm Harshada Ghube from India a Computer Science student who enjoys turning ideas into working software — from small automation scripts to full applications. 
 
 - 🎓 Computer Science and Business Student
-- 🛠️ Learning & Exploring New Technologies
+- 🛠️ Learning & Exploring New Things
 - 🌍 Open Source Contributor
 - 🌐 Web Development Enthusiast
-- ⚡ Late-Night Coder a
+- ⚡ Late-Night Coder 
   
 
 <br/>
@@ -34,9 +34,10 @@ I'm Harshada Ghube from India a Computer Science student who enjoys turning idea
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48"/>&nbsp;&nbsp;
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="48" height="48"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="48" height="48"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="48" height="48"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="48" height="48"/>&nbsp;&nbsp;
@@ -81,7 +82,7 @@ I'm Harshada Ghube from India a Computer Science student who enjoys turning idea
 
 I'm always open to interesting projects, collaborations, or just a good conversation about code.
 
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="(https://www.linkedin.com/in/harshada-ghube-5302a0381/)"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
 
