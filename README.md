@@ -59,19 +59,22 @@ I'm Harshada Ghube from India a Computer Science student who enjoys turning idea
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarShada8G&theme=tokyonight&hide_border=true&background=0f2027&stroke=2c5364&ring=2c5364&fire=e5c07b" alt="Streak stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=HarShada8G&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=c3e2f5&icon_color=2c5364" alt="GitHub stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarShada8G&theme=tokyonight&hide_border=true&background=0f2027&stroke=2c5364&ring=2c5364&fire=e5c07b" alt="GitHub Streak" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=HarShada8G&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=c3e2f5&icon_color=2c5364" alt="GitHub Stats" width="49%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarShada8G&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=c3e2f5" alt="Top languages" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarShada8G&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=c3e2f5" alt="Top Languages" width="45%" />
 
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=HarShada8G&theme=tokyonight&no-frame=true&column=4&margin-w=15" alt="Trophies" width="100%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=HarShada8G&theme=tokyonight&no-frame=true&column=4&margin-w=15" alt="GitHub Trophies" width="100%" />
+
 </div>
 
 <br/>
