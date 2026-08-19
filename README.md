@@ -65,17 +65,7 @@ I'm Harshada Ghube from India a Computer Science student who enjoys turning idea
 
 </div>
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarShada8G&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=c3e2f5" alt="Top Languages" width="45%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HarShada8G&theme=tokyonight&no-frame=true&column=4&margin-w=15" alt="GitHub Trophies" width="100%" />
-
-</div>
 
 <br/>
 
