@@ -68,7 +68,7 @@ I'm Harshada Ghube from India a Computer Science student who enjoys turning idea
 
 <div align="center">
 
-I'm always open to interesting projects, collaborations, or just a good conversation about code.
+I'm always open to interesting projects, collaborations or just a good conversation about code.
 
 <a href="https://www.linkedin.com/in/harshada-ghube-5302a0381/" target = "_blank">
 <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
