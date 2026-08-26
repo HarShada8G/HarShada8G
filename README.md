@@ -59,7 +59,7 @@ I'm Harshada Ghube from India a Computer Science student who enjoys turning idea
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarShada8G&theme=tokyonight&hide_border=true&background=0f2027&stroke=2c5364&ring=2c5364&fire=e5c07b" alt="GitHub Streak" width="49%" />
+<img src="https://github-readme-strestats.herokuapp.com/user=HarShada8G&theme=tokyonight&hide_border=true&background=0f2027&stroke=2c5364&ring=2c5364&fire=e5c07b" alt="GitHub Streak" width="49%" />
 
 </div>
 <br/>
